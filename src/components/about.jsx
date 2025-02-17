@@ -5,7 +5,7 @@ export const About = (props) => {
 
   // Ensure that 'data' and its properties are available before trying to map
   const why = Array.isArray(data?.Why) ? data.Why : [];
-  const why2 = Array.isArray(data?.Why2) ? data.Why2 : [];
+  // const why2 = Array.isArray(data?.Why2) ? data.Why2 : [];
 
   return (
     <div id="about">
