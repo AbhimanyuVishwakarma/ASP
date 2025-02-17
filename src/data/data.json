@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "EMPLOYEE BACKGROUND VERIFICATION",
+    "paragraph": "Verify Employee Details Quickly And Securely With Our Comphrensive Background Verification Platform. "
+  },
+  "About": {
+    "paragraph": "In Today's Fast-Placed Business World,Efficient Employee Verification is Cruical For Building a Reliable team.Our Comprehensive Background Verification Platform makes it easier for Companies to confirm the credentials and history of potential hikes,ensuring your team is as trustworthy and qualified as it should be With our quick, secure, and accurate verification process,you can onboard employees with peace of mind,Knowing they meet your standards and expectations",
+    "Why": [
+      "Types of Checks",
+      "Integeration With systems",
+      "Compliance and legal considerations",
+      "Reporting and analytics"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+"Services": [
+    {
+      "icon": "fa fa-id-card",
+      "name": "Identify Verification",
+      "text": "Scans national and international databases for any criminal history."
+    },
+    {
+      "icon": "fa fa-file-alt",
+      "name": "Criminal Record Check",
+      "text": "Validates the authenticity of submitted documents such as diplomas, passports, and IDs."
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "Employment History Verification",
+      "text": "Validates academic degrees, certifications, and other relevant qualifications."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Educational Qualification Verification",
+      "text": "This service ensures that the candidate’s claimed educational background is accurate. It involves verifying academic degrees, certifications, and any professional qualifications with the issuing institutions."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Field Audit Checks",
+      "text": "Field audits assess whether the candidate’s professional experience, skills, and roles align with their claims."
+    },
+    {
+      "icon": "fa fa-map-marker-alt",
+      "name": "Address Verification",
+      "text": "Address verification confirms the accuracy of a candidate’s listed residential address. This service can include sending physical mail to the address, contacting local authorities, or using third-party data providers to validate that the individual resides at the claimed location."
+    }
+],
+
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "C-27, Badarpur, New-Delhi, 110044",
+    "phone": "+91-8047094800",
+    "email": "Support@ASP.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "linkedin": "www.linkedin.com/in/yourprofile",
+   "whatsapp": "918123456789"
+
+  },
+ "Features": [
+    {
+      "icon": "fa fa-comments",
+      "title": "Accuracy And Reliability",
+      "text": "We leverage cutting-edge technology and comprehensive data sources to deliver precise and dependable results."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Compliance and Security",
+      "text": "Our services comply with all relevant regulations, and we implement stringent security measures to safeguard your data."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Fast Turnaround Services",
+      "text": "We provide quick and efficient results without compromising on accuracy, helping you make timely decisions."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Dedicated Support",
+      "text": "Our dedicated support team is always ready to assist you with any questions or concerns you may have."
+    }
+]
+}
